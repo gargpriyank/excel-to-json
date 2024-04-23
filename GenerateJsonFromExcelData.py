@@ -1,6 +1,4 @@
-import openpyxl
 import json
-import pandas as pd
 
 from openpyxl import load_workbook
 from json import dumps
