@@ -10,5 +10,5 @@ For python packages installation refer: https://packaging.python.org/en/latest/t
 ls /usr/bin | grep python
 ls /usr/bin | grep pip
 
-pip3 install --target ${env.WORKSPACE} openpyxl yaml ***(Use this command if you don't have permission to install)***
+pip3 install --target ${env.WORKSPACE} openpyxl yaml (Use this command if you don't have permission to install)
 ```
